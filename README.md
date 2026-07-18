@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Manoj Aravind! 👋
 
-<!--
-**ManojAravindS/ManojAravindS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing Animation](https://demolab.com)
 
-Here are some ideas to get you started:
+![Waving Header](https://vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Animated Tech Icons](https://skillicons.dev)
+
+---
+
+### 📊 My GitHub Stats
+
+![Live GitHub Stats](https://vercel.app)
+
+![Live Top Languages](https://vercel.app)
+
+---
+
+### 🚀 Get in Touch
+
+* 🔭 I’m currently working on sharpening my Python skills and building personal projects.
+* 🌱 I’m currently learning advanced data structures and algorithms.
+* 💬 Ask me about Python programming, automation, or student developer resources.
